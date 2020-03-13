@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hahwohtei.emscripten.ru/sitemap.xml
